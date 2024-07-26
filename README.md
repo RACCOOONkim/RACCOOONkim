@@ -26,11 +26,12 @@ Here are some ideas to get you started:
 </div>
 
 ## 🔨 Once I've used 🔨
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
     </div>
     <p><strong>XR</strong></p>
     <div>
