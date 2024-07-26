@@ -17,13 +17,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&letterSpacing=Bold&pause=1000&color=000000&background=FFFFFF&center=true&width=435&lines=WELCOME+TO+THE+RACCOOONKim's+SPACE+👋)](https://git.io/typing-svg)
 
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="kimkwangtai@snu.ac.kr">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimkwangtai@snu.ac.kr)
 
 ## 🔨 Once I've used 🔨
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
