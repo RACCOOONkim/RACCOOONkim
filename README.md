@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=RACCOOONKim🦝&%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=RACCOOONKim🦝&%20render&fontSize=90)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&letterSpacing=Bold&pause=1000&color=000000&background=FFFFFF&center=true&width=435&lines=WELCOME+TO+THE+RACCOOONKim's+SPACE+👋)](https://git.io/typing-svg)
 
